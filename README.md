@@ -13,3 +13,4 @@ This application to is advancement to already established applications such as D
 -When ever user presses for help in landing page it will be redirected to help desk where user can also check his current location, along with doctor support button, nearby hospitals,hotels & police station information.  
 Upcoming Extension:  
 Integration of Drone technology to capture live footage & sent them to required people.  
+"# Rakshak" 
