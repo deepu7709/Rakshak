@@ -12,5 +12,7 @@ This application to is advancement to already established applications such as D
 - If user wanted Doctors help in just another click these details will be sent to nearby hospitals as immediate causlty case.  
 -When ever user presses for help in landing page it will be redirected to help desk where user can also check his current location, along with doctor support button, nearby hospitals,hotels & police station information.  
 Upcoming Extension:  
-Integration of Drone technology to capture live footage & sent them to required people.  
+Integration of Drone technology to capture live footage & sent them to required people.
+Technologies Used:
+Node.js, MySQL, HTML, CSS, Geolocation API
 "# Rakshak" 
