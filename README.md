@@ -14,5 +14,5 @@ This application to is advancement to already established applications such as D
 Upcoming Extension:  
 Integration of Drone technology to capture live footage & sent them to required people.   
 Technologies Used:    
-Node.js, MySQL, HTML, CSS, Geolocation API
+Node.js, MySQL, HTML, CSS, Geolocation API    
 "# Rakshak" 
